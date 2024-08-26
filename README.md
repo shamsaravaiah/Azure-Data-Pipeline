@@ -4,4 +4,7 @@ This project provides a comprehensive end-to-end solution for data management an
 
 
 the project starts out with resource creation, down below are the resources I have created to use in this project:-
-![reource group creation ](https://github.com/shamsaravaiah/Azure-Data-Pipeline/blob/main/Screen%20shots/created%20ADF%20resource.png)
+#  to begin with i created a resource group :- 
+![resource group  ](https://github.com/shamsaravaiah/Azure-Data-Pipeline/blob/main/Screen%20shots/created%20ADF%20resource.png)
+
+![adf creation ](https://github.com/shamsaravaiah/Azure-Data-Pipeline/blob/main/Screen%20shots/created%20ADF%20resource.png)
