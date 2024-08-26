@@ -3,7 +3,7 @@ This project provides a comprehensive end-to-end solution for data management an
 
 
 ##the project starts out with resource creation, down below are the resources I have created to use in this project:-
-# Azure Data Pipeline Project
+
 
 This project demonstrates the creation and management of various Azure resources as part of a data pipeline setup. Below are the resources created for this project:
 
