@@ -4,19 +4,42 @@ This project provides a comprehensive end-to-end solution for on prem to cloud d
 
 
 
+# Azure Data Pipeline Project
+
 This project demonstrates the creation and management of various Azure resources as part of a data pipeline setup. Below are the resources created for this project:
 
-## 1. Creating a Resource Group
-![Creating Resource Group](https://github.com/shamsaravaiah/Azure-Data-Pipeline/blob/main/Screen%20shots/creating%20resource%20group.png)
+<details>
+  <summary><strong>1. Creating a Resource Group</strong></summary>
+  
+  ![Creating Resource Group](https://github.com/shamsaravaiah/Azure-Data-Pipeline/blob/main/Screen%20shots/creating%20resource%20group.png)
+  
+</details>
 
-## 2. Creating a Storage Account Resource
-![Created Storage Account Resource](https://github.com/shamsaravaiah/Azure-Data-Pipeline/blob/main/Screen%20shots/created%20storage%20account%20resource.png)
+<details>
+  <summary><strong>2. Creating a Storage Account Resource</strong></summary>
+  
+  ![Created Storage Account Resource](https://github.com/shamsaravaiah/Azure-Data-Pipeline/blob/main/Screen%20shots/created%20storage%20account%20resource.png)
+  
+</details>
 
-## 3. Creating a Key Vault Resource
-![Created Key Vault Resource](https://github.com/shamsaravaiah/Azure-Data-Pipeline/blob/main/Screen%20shots/created%20key%20vault%20resource.png)
+<details>
+  <summary><strong>3. Creating a Key Vault Resource</strong></summary>
+  
+  ![Created Key Vault Resource](https://github.com/shamsaravaiah/Azure-Data-Pipeline/blob/main/Screen%20shots/created%20key%20vault%20resource.png)
+  
+</details>
 
-## 4. Creating a Databricks Workspace
-![Created Databricks Workspace](https://github.com/shamsaravaiah/Azure-Data-Pipeline/blob/main/Screen%20shots/created%20Databricks%20workspace.png)
+<details>
+  <summary><strong>4. Creating a Databricks Workspace</strong></summary>
+  
+  ![Created Databricks Workspace](https://github.com/shamsaravaiah/Azure-Data-Pipeline/blob/main/Screen%20shots/created%20Databricks%20workspace.png)
+  
+</details>
 
-## 5. Creating an Azure Data Factory Resource
-![Created Azure Data Factory Resource](https://github.com/shamsaravaiah/Azure-Data-Pipeline/blob/main/Screen%20shots/created%20ADF%20resource.png)
+<details>
+  <summary><strong>5. Creating an Azure Data Factory Resource</strong></summary>
+  
+  ![Created Azure Data Factory Resource](https://github.com/shamsaravaiah/Azure-Data-Pipeline/blob/main/Screen%20shots/created%20ADF%20resource.png)
+  
+</details>
+
