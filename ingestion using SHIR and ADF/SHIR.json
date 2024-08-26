@@ -1,0 +1,7 @@
+{
+    "name": "SHIR-dellilah-to-azure-cloud",
+    "properties": {
+        "type": "SelfHosted",
+        "description": "this is a SHIR connecting my laptop to my cloud "
+    }
+}
